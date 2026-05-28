@@ -30,12 +30,12 @@ Dengan memanfaatkan teknologi AR, objek fisik dapat menampilkan informasi digita
 
 ---
 
-## 👥 Team Members
+👥 Team Members
 
-* **Jaqckline Yesyuruniwati** – Unity Developer
-* **Mutia Saladina Daryono** – 3D Modeling
-* **Ramanda Nizar Firdaus** – Unity Developer
-* **Hassyfa Eka Putri** – Mobile App & Database
+- Jaqckline Yesyuruniwati – Unity Integration & Firebase Synchronization
+- Mutia Saladina Daryono – 3D Modeling & Asset Preparation
+- Ramanda Nizar Firdaus – Unity Development & 3D Model Implementation
+- Hassyfa Eka Putri – Mobile App Development & Firebase Database
 
 ---
 
